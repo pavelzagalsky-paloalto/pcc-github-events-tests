@@ -6,4 +6,4 @@ telegram == 0.1
 validate_email == 0.1
 werkzeug == 0.11.5
 flask == 0.1
-jinja == 2.10.0
+Jinja == 2.10.0
