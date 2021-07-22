@@ -4,6 +4,6 @@ python-bugzilla == 0.1
 pymongo == 0.1
 telegram == 0.1
 validate_email == 0.1
-werkzeug == 0.1
+werkzeug == 0.15.3 
 flask == 1.0 
 jinja2 == 2.11.3 
